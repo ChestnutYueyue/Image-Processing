@@ -8,3 +8,10 @@
 + 代码编辑：Vscode
 + 编程语言：C++11
 
+## 演示
+### 界面
+![界面](https://github.com/ChestnutYueyue/image_processing/blob/master/Image/1.png?raw=true)
+### 原图
+![原图](https://github.com/ChestnutYueyue/image_processing/blob/master/Image/2.png?raw=true)
+### 处理后
+![处理](https://github.com/ChestnutYueyue/image_processing/blob/master/Image/3.png?raw=true)
