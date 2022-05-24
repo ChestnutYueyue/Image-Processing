@@ -1,4 +1,4 @@
-add_rules("mode.release")
+add_rules("mode.debug","mode.release")
 add_requires("opencv")
 
 target("image_processing")
@@ -7,5 +7,3 @@ target("image_processing")
     add_files("src/**.ui")
     add_files("src/**.h")
     add_packages("opencv")
-
-
